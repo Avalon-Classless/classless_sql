@@ -13,9 +13,9 @@ Warrior
 - Protection ✔️
 
 Warlock
-- Destruction ❌
-- Affliction ❌
-- Demonology ❌
+- Destruction ✔️
+- Affliction ✔️
+- Demonology ✔️
 
 Shaman
 - Elemental ❌
