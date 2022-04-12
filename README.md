@@ -1,5 +1,10 @@
 # classless_sql
 
+List includes
+- Proper level for Rank 1
+- All Rank IDs (for unlearning purposes)
+
+
 Class List
 
 Warrior
