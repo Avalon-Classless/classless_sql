@@ -23,14 +23,14 @@ Shaman
 - Restoration ✔️
 
 Rogue
-- Assassination ❌
-- Combat ❌
-- Sublety ❌
+- Assassination ✔️
+- Combat ✔️
+- Sublety ✔️
 
 Priest
-- Shadow ❌
-- Holy ❌
-- Discipline ❌
+- Shadow ✔️
+- Holy ✔️
+- Discipline ✔️
 
 Paladin
 - Retribution ❌
