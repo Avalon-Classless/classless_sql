@@ -33,9 +33,9 @@ Priest
 - Discipline ✔️
 
 Paladin
-- Retribution ❌
-- Holy ❌
-- Protection ❌
+- Retribution ✔️
+- Holy ✔️
+- Protection ✔️
 
 Mage
 - Arcane ❌
