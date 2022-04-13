@@ -18,9 +18,9 @@ Warlock
 - Demonology ✔️
 
 Shaman
-- Elemental ❌
-- Enhancement ❌
-- Restoration ❌
+- Elemental ✔️
+- Enhancement ✔️
+- Restoration ✔️
 
 Rogue
 - Assassination ❌
