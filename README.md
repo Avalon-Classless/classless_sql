@@ -38,22 +38,22 @@ Paladin
 - Protection ✔️
 
 Mage
-- Arcane ❌
-- Fire ❌
-- Frost ❌
+- Arcane ✔️
+- Fire ✔️
+- Frost ✔️
 
 Druid
-- Balance ❌
-- Feral ❌
-- Restoration ❌
+- Balance ✔️
+- Feral ✔️
+- Restoration ✔️
 
 Death Knight
-- Blood ❌
-- Frost ❌
-- Unholy ❌
+- Blood ✔️
+- Frost ✔️
+- Unholy ✔️
 
 Hunter
-- Beast Mastery ❌
-- Marksmanship ❌
-- Survival ❌
+- Beast Mastery ✔️
+- Marksmanship ✔️
+- Survival ✔️
 
