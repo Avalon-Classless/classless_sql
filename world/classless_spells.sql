@@ -1,7 +1,7 @@
 -- --------------------------------------------------------
--- Host:                         45.89.124.45
--- Server version:               8.0.28-0ubuntu0.21.10.3 - (Ubuntu)
--- Server OS:                    Linux
+-- Host:                         5.45.110.167
+-- Server version:               10.3.34-MariaDB-0ubuntu0.20.04.1 - Ubuntu 20.04
+-- Server OS:                    debian-linux-gnu
 -- HeidiSQL Version:             11.3.0.6295
 -- --------------------------------------------------------
 
@@ -14,33 +14,33 @@
 
 -- Dumping structure for table acore_world.classless_spells
 CREATE TABLE IF NOT EXISTS `classless_spells` (
-  `ID` int NOT NULL AUTO_INCREMENT,
-  `Spell_ID` int NOT NULL DEFAULT '0',
-  `Tier` float NOT NULL DEFAULT '0',
-  `Row` float NOT NULL DEFAULT '0',
+  `ID` int(11) NOT NULL AUTO_INCREMENT,
+  `Spell_ID` int(11) NOT NULL DEFAULT 0,
+  `Tier` float NOT NULL DEFAULT 0,
+  `Row` float NOT NULL DEFAULT 0,
   `Parent_Frame` varchar(100) NOT NULL DEFAULT '0',
-  `Required_Spell` int NOT NULL DEFAULT '0',
-  `Points_Cost` int NOT NULL DEFAULT '1',
-  `Required_Level` int NOT NULL DEFAULT '1',
-  `Unlearn_Rank_2` int DEFAULT '0',
-  `Unlearn_Rank_3` int DEFAULT '0',
-  `Unlearn_Rank_4` int DEFAULT '0',
-  `Unlearn_Rank_5` int DEFAULT '0',
-  `Unlearn_Rank_6` int DEFAULT '0',
-  `Unlearn_Rank_7` int DEFAULT '0',
-  `Unlearn_Rank_8` int DEFAULT '0',
-  `Unlearn_Rank_9` int DEFAULT '0',
-  `Unlearn_Rank_10` int DEFAULT '0',
-  `Unlearn_Rank_11` int DEFAULT '0',
-  `Unlearn_Rank_12` int DEFAULT '0',
-  `Unlearn_Rank_13` int DEFAULT '0',
-  `Unlearn_Rank_14` int DEFAULT '0',
-  `Unlearn_Rank_15` int DEFAULT '0',
-  `Unlearn_Rank_16` int DEFAULT '0',
+  `Required_Spell` int(11) NOT NULL DEFAULT 0,
+  `Points_Cost` int(11) NOT NULL DEFAULT 1,
+  `Required_Level` int(11) NOT NULL DEFAULT 1,
+  `Unlearn_Rank_2` int(11) DEFAULT 0,
+  `Unlearn_Rank_3` int(11) DEFAULT 0,
+  `Unlearn_Rank_4` int(11) DEFAULT 0,
+  `Unlearn_Rank_5` int(11) DEFAULT 0,
+  `Unlearn_Rank_6` int(11) DEFAULT 0,
+  `Unlearn_Rank_7` int(11) DEFAULT 0,
+  `Unlearn_Rank_8` int(11) DEFAULT 0,
+  `Unlearn_Rank_9` int(11) DEFAULT 0,
+  `Unlearn_Rank_10` int(11) DEFAULT 0,
+  `Unlearn_Rank_11` int(11) DEFAULT 0,
+  `Unlearn_Rank_12` int(11) DEFAULT 0,
+  `Unlearn_Rank_13` int(11) DEFAULT 0,
+  `Unlearn_Rank_14` int(11) DEFAULT 0,
+  `Unlearn_Rank_15` int(11) DEFAULT 0,
+  `Unlearn_Rank_16` int(11) DEFAULT 0,
   KEY `ID` (`ID`)
-) ENGINE=InnoDB AUTO_INCREMENT=396 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=423 DEFAULT CHARSET=latin1;
 
--- Dumping data for table acore_world.classless_spells: ~393 rows (approximately)
+-- Dumping data for table acore_world.classless_spells: ~391 rows (approximately)
 /*!40000 ALTER TABLE `classless_spells` DISABLE KEYS */;
 INSERT INTO `classless_spells` (`ID`, `Spell_ID`, `Tier`, `Row`, `Parent_Frame`, `Required_Spell`, `Points_Cost`, `Required_Level`, `Unlearn_Rank_2`, `Unlearn_Rank_3`, `Unlearn_Rank_4`, `Unlearn_Rank_5`, `Unlearn_Rank_6`, `Unlearn_Rank_7`, `Unlearn_Rank_8`, `Unlearn_Rank_9`, `Unlearn_Rank_10`, `Unlearn_Rank_11`, `Unlearn_Rank_12`, `Unlearn_Rank_13`, `Unlearn_Rank_14`, `Unlearn_Rank_15`, `Unlearn_Rank_16`) VALUES
 	(1, 78, 1, 1, 'Warrior_Arms', 0, 1, 1, 284, 285, 1608, 11564, 11565, 11566, 11567, 25286, 29707, 30324, 47449, 47450, 0, 0, 0),
@@ -235,7 +235,7 @@ INSERT INTO `classless_spells` (`ID`, `Spell_ID`, `Tier`, `Row`, `Parent_Frame`,
 	(191, 1706, 3, 3, 'Priest_Disc', 0, 1, 34, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0),
 	(192, 32375, 1, 4, 'Priest_Disc', 0, 1, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0),
 	(193, 20186, 1, 1, 'Paladin_Retri', 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0),
-	(194, 20185, 2, 1, 'Paladin_Retri', 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0),
+	(194, 20271, 2, 1, 'Paladin_Retri', 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0),
 	(195, 20184, 3, 1, 'Paladin_Retri', 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0),
 	(196, 19740, 1, 2, 'Paladin_Retri', 0, 1, 1, 19834, 19835, 19836, 19837, 19838, 25291, 27140, 48931, 48932, 0, 0, 0, 0, 0, 0),
 	(197, 7294, 2, 2, 'Paladin_Retri', 0, 1, 1, 10298, 10299, 10300, 10301, 27150, 54043, 0, 0, 0, 0, 0, 0, 0, 0, 0),
