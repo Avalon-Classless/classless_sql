@@ -1,783 +1,784 @@
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48782, 200000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49930, 360000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48467, 200000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (90000, 61316, 0, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 51514, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 53023, 100000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48468, 200000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49938, 360000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48952, 10000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47867, 160000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48469, 200000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 48660, 15000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 49271, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (90000, 53428, 0, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 57755, 100000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48073, 9000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48078, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48470, 200000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 57946, 160000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48125, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 48676, 300000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 48691, 300000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 48990, 300000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47486, 13000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 57823, 260000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48173, 9000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48162, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 59172, 8000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 61301, 9000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48819, 200000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 49050, 10000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 61657, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48447, 200000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 60220, 160000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42873, 150000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 55360, 7500, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47843, 8000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 51994, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 62757, 300000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (90000, 50977, 0, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47498, 5000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 59159, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58796, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58804, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48827, 10000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 60043, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 61411, 200000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 49012, 100000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 49048, 300000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58656, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48564, 10000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48572, 200000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 50763, 200000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 53251, 10000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 61290, 10000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 51411, 10000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58704, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49895, 360000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 48666, 15000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 49233, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42921, 150000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42945, 7500, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42956, 150000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 43002, 150000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 58659, 150000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 60053, 100000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48066, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 58434, 300000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58757, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47811, 160000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47889, 160000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 55262, 18000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48161, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48158, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48160, 9000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48068, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 61847, 300000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 57993, 300000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49924, 360000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 49281, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 49284, 9000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (90000, 48778, 0, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58774, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47440, 260000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47471, 260000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47488, 260000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47825, 160000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58790, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 55459, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 57722, 10000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48806, 200000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48825, 10000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47847, 8000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48074, 9000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 48018, 160000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 63672, 10000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 48020, 160000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 61006, 300000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48087, 9000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58643, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 42650, 360000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48089, 9000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 53007, 9000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48441, 200000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48451, 200000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48463, 200000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48566, 10000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48568, 200000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 48638, 300000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 49800, 200000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 53201, 10000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 61384, 10000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47827, 8000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 58887, 160000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 59092, 160000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47838, 100000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 48657, 300000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58739, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 53339, 300000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42897, 150000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42940, 150000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42950, 7500, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42995, 150000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 43039, 7500, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 44781, 15000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 47610, 150000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47836, 160000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58745, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 59164, 8000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 49277, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 55268, 18000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58749, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48156, 9000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 51328, 18000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 49273, 180000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (90000, 61024, 0, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49921, 360000, 0, 0, 80, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42846, 150000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48785, 200000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 55271, 18000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 51425, 360000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 43012, 150000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48071, 180000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48570, 200000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48801, 200000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48934, 200000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47893, 160000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48477, 200000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 50213, 200000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42931, 150000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47809, 160000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47437, 260000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 49045, 300000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48378, 200000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48461, 200000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47878, 160000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 43024, 150000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 43046, 150000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 49238, 180000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47475, 260000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47815, 160000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47864, 160000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 49001, 300000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48932, 200000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48942, 200000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48950, 200000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48300, 180000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48480, 200000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48579, 200000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48127, 180000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48113, 180000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48123, 180000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 49231, 180000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 48668, 300000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42842, 150000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42926, 150000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 43008, 150000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 43020, 150000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47820, 160000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 48672, 300000, 0, 0, 79, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48465, 200000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 48999, 15000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48788, 200000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42859, 150000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47823, 160000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 49056, 300000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49909, 360000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47891, 160000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48577, 200000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 53312, 200000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47857, 160000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48063, 180000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 48659, 300000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42833, 150000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42914, 150000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47860, 160000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 49236, 180000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58753, 180000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47436, 260000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47502, 26000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47865, 160000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48171, 180000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48817, 200000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48947, 200000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49941, 360000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58582, 180000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48574, 200000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 53308, 200000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48120, 180000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58734, 180000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 43010, 150000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48135, 180000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47888, 160000, 0, 0, 78, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47520, 260000, 0, 0, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 49803, 200000, 0, 0, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48168, 180000, 0, 0, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 43017, 150000, 0, 0, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48938, 200000, 0, 0, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48945, 200000, 0, 0, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48560, 200000, 0, 0, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47855, 160000, 0, 0, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (202012, 54197, 10000000, 762, 225, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47813, 160000, 0, 0, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48170, 180000, 0, 0, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48936, 200000, 0, 0, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 48996, 300000, 0, 0, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48443, 200000, 0, 0, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48562, 200000, 0, 0, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 49052, 300000, 0, 0, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 49067, 300000, 0, 0, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42891, 7500, 0, 0, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42985, 150000, 0, 0, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (90000, 54197, 10000000, 34090, 0, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 49276, 180000, 0, 0, 77, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49894, 360000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 43015, 150000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 48674, 300000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48169, 180000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47450, 260000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48943, 200000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 57960, 180000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47856, 160000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47884, 160000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58756, 180000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47465, 260000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58789, 180000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 53338, 10000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42896, 150000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47793, 160000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58773, 180000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58803, 180000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58795, 180000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 54043, 200000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48072, 180000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48575, 200000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 48637, 300000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 49071, 300000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42920, 150000, 0, 0, 76, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42843, 150000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 59163, 8000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 55694, 100000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 57934, 300000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48086, 9000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 51505, 180000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 57623, 360000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58581, 180000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48563, 10000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48571, 200000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 52610, 200000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 53249, 10000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 49232, 180000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42955, 150000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48157, 180000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47824, 160000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48159, 9000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 59171, 8000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47487, 260000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47826, 8000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 49011, 100000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 59158, 180000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48824, 10000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 63671, 10000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 53006, 9000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48045, 10000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 47568, 360000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 51419, 18000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58741, 180000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 49272, 180000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 48675, 300000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49920, 360000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 61005, 300000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47810, 160000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47841, 8000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 49283, 9000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47485, 13000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47497, 5000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47846, 8000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 61300, 9000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 61649, 180000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48781, 200000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48818, 200000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48826, 10000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48951, 10000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 53600, 200000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47897, 10000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48077, 180000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 49049, 10000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48088, 9000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 57622, 180000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 51327, 18000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58652, 180000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48440, 200000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48446, 200000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48462, 200000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48565, 10000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 53200, 10000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 53226, 10000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47835, 160000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58703, 180000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58746, 180000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 48663, 15000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 51410, 10000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58737, 180000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42841, 150000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42917, 150000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42944, 7500, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42949, 7500, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 43038, 7500, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 44614, 150000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48124, 180000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48065, 180000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 60052, 400, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48067, 180000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 49280, 180000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 48690, 300000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49923, 360000, 0, 0, 75, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48784, 200000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 48989, 300000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 48671, 300000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 61846, 300000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47814, 160000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 55458, 180000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 48656, 300000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42872, 150000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 55261, 18000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 60219, 160000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48377, 200000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48122, 180000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48155, 9000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48126, 180000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 58431, 300000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 49047, 300000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47474, 260000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49929, 360000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47892, 160000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48805, 200000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42939, 150000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47808, 160000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (29156, 53142, 100000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 57992, 300000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47439, 100000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48941, 200000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48459, 200000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 49802, 200000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 53307, 200000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48112, 100000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 49230, 180000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42832, 150000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47837, 100000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 49270, 180000, 0, 0, 74, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48172, 3250, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47871, 160000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42858, 150000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48800, 200000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48933, 200000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48062, 180000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47863, 160000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 49000, 300000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58731, 180000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 49044, 300000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48479, 200000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48567, 200000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 51424, 360000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42890, 7500, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 43019, 150000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49937, 360000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 55270, 18000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47470, 260000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47501, 260000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48070, 180000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48931, 200000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48299, 180000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48569, 200000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48578, 200000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58751, 180000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 49235, 180000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47859, 160000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 48667, 300000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49904, 360000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 49237, 180000, 0, 0, 73, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48464, 200000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47519, 260000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 70164, 360000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 47449, 260000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42930, 150000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47890, 160000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48576, 200000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 62158, 360000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48816, 200000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48450, 200000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48573, 200000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 48658, 300000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47886, 160000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 48998, 15000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 61999, 360000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49940, 360000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48949, 200000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48561, 200000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47819, 160000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 61191, 70000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48119, 180000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 49055, 300000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42913, 150000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42925, 150000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48134, 180000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 49275, 180000, 0, 0, 72, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 48040, 180000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 40120, 200000, 762, 300, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 50212, 200000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58580, 180000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 43045, 150000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (29156, 53140, 100000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 47812, 160000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58785, 180000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 64382, 260000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48935, 200000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58649, 180000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 50511, 160000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48442, 200000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 49799, 200000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58699, 180000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 51724, 300000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58771, 180000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 46845, 260000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58794, 180000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58801, 180000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 48937, 200000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 49051, 300000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 48559, 200000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 49066, 300000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 53351, 300000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 42894, 150000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 43023, 150000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 58755, 180000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 48995, 300000, 0, 0, 71, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 51326, 18000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 51418, 18000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27127, 100000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25509, 88000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 32594, 5000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 26988, 100000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 53248, 1700, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27074, 120000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 33405, 6000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 55359, 5000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 30405, 2500, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 30910, 78000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 51993, 71000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 30356, 71000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 27136, 130000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 27149, 130000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 61299, 9000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 33717, 150000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 38697, 150000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 53344, 360000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27265, 1300, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 30545, 78000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 32231, 78000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 25236, 71000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 30022, 3250, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 30357, 260000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25547, 88000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 27140, 200000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 27153, 130000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 27179, 6500, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 32700, 5000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 32182, 88000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 45463, 63000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 26990, 100000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 27002, 100000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 53199, 10000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25392, 100000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25218, 140000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25442, 88000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27082, 120000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 33933, 6000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 44780, 10000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 59170, 2500, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 27068, 5000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 60051, 400, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 36916, 300000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 28275, 1500, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27238, 78000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 30414, 2500, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 30459, 78000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 30546, 3900, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25312, 2300, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 32996, 110000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 25203, 71000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 30324, 100000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 30330, 3500, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 32999, 3400, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 59156, 88000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 27141, 100000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 27173, 130000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 33072, 6500, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25368, 140000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 34917, 2300, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 53005, 5000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 34866, 7000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 26864, 2700, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 48265, 360000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 26862, 100000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 26884, 100000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 57721, 5200, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (201017, 44157, 180000, 202, 375, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 26983, 100000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 26991, 100000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 26995, 100000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 27012, 100000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 27013, 200000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25389, 65000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 53225, 1700, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25222, 140000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 27065, 10000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 51409, 6500, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 34413, 7500, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25396, 88000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (202011, 34091, 50000000, 762, 225, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27079, 120000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27090, 150000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27126, 120000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 32796, 120000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 33043, 2500, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 33938, 7500, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 38692, 150000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 38704, 100000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 43987, 120000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 59161, 2500, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 39374, 100000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25472, 88000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 48673, 100000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25457, 88000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49919, 360000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (90000, 34091, 50000000, 34090, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 48689, 140000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27243, 78000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27260, 78000, 0, 0, 70, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25590, 79000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25574, 79000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27128, 110000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25454, 79000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25567, 79000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 27019, 170000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 33736, 79000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25364, 65000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49928, 69000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25375, 65000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 26982, 90000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 26985, 90000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 26994, 90000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27124, 110000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 33946, 110000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 38699, 87000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27209, 70000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27212, 70000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 28189, 70000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 30909, 70000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 2048, 71000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 25242, 71000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 27139, 110000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 27154, 110000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 63670, 10000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25533, 79000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 26979, 90000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 27004, 90000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 32684, 100000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 50764, 90000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27072, 110000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27125, 110000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 55260, 3450, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27215, 70000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27220, 70000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27228, 70000, 0, 0, 69, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25423, 71000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25464, 71000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 27045, 150000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25331, 110000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 26989, 81000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 48707, 68000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27230, 63000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 25208, 65000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 33076, 110000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 26863, 110000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 26867, 120000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25505, 71000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 27009, 81000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 33983, 1700, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25467, 110000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 27044, 150000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49893, 68000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27131, 96000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25563, 71000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 27046, 150000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27223, 63000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 29893, 63000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 469, 65000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 25231, 65000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 27138, 100000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 27152, 100000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 27180, 100000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25387, 6500, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 33987, 1900, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25213, 110000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27085, 96000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27101, 96000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25308, 110000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27213, 63000, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27222, 56700, 0, 0, 68, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27217, 57000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 27016, 140000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 27008, 73000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27218, 57000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25560, 64000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27088, 87000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27259, 57000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25525, 64000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 56815, 67000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 25264, 65000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25557, 64000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 55265, 18000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49936, 68000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 27022, 140000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 27021, 140000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 26986, 73000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 26996, 73000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 27000, 73000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25449, 64000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 51423, 67000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 33944, 100000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49903, 67000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25235, 99000, 0, 0, 67, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 27067, 2500, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 27005, 66000, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 27006, 66000, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 33745, 66000, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 48743, 66000, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 25248, 3250, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 27137, 83000, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 27150, 83000, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 30455, 78000, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 28172, 51000, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25500, 58000, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200021, 53736, 100000, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 25258, 65000, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 29707, 65000, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49939, 66000, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25384, 65000, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 27441, 80000, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25437, 2200, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25420, 58000, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27070, 78000, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27132, 3900, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27250, 51000, 0, 0, 66, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (20791, 33691, 150000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (20791, 35717, 150000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (201011, 51312, 350000, 333, 350, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27216, 46000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 57330, 65000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (201003, 51303, 350000, 171, 350, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 27143, 75000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 56222, 65000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (201029, 51301, 350000, 165, 350, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27087, 70000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25528, 52000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 34865, 4000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25570, 52000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25217, 80000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (201041, 51308, 350000, 197, 350, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (202009, 50299, 350000, 129, 350, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (201026, 51310, 350000, 755, 350, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 25234, 65000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25552, 52000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (201006, 51298, 350000, 164, 350, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25367, 80000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 27142, 75000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (201014, 61464, 350000, 202, 350, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 26980, 59000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 33357, 59000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25221, 80000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 27023, 110000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 51417, 3250, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (202006, 51295, 350000, 185, 350, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27073, 70000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27133, 3500, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 37420, 70000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (201023, 45380, 350000, 773, 350, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49918, 65000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (19340, 35717, 150000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27210, 46000, 0, 0, 65, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 45529, 64000, 0, 0, 64, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 32546, 72000, 0, 0, 64, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 27174, 3348, 0, 0, 64, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 26997, 53000, 0, 0, 64, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 30451, 63000, 0, 0, 64, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 55259, 3200, 0, 0, 64, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 26865, 140000, 0, 0, 64, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25489, 47000, 0, 0, 64, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 27448, 72000, 0, 0, 64, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 33763, 53000, 0, 0, 64, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27134, 2500, 0, 0, 64, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 29722, 42000, 0, 0, 64, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 26679, 72000, 0, 0, 64, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49927, 64000, 0, 0, 64, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 26992, 53000, 0, 0, 64, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 27003, 53000, 0, 0, 64, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27086, 63000, 0, 0, 64, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 33042, 2200, 0, 0, 64, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27211, 42000, 0, 0, 64, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 25269, 65000, 0, 0, 63, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25372, 65000, 0, 0, 63, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 63669, 7000, 0, 0, 63, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 26981, 48000, 0, 0, 63, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27075, 57000, 0, 0, 63, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27130, 57000, 0, 0, 63, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 54446, 68000, 0, 0, 63, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25508, 42000, 0, 0, 63, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25391, 42000, 0, 0, 63, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 53323, 63000, 0, 0, 63, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27071, 57000, 0, 0, 63, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25439, 42000, 0, 0, 63, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25469, 42000, 0, 0, 63, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 27151, 61000, 0, 0, 63, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 27014, 87000, 0, 0, 63, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49999, 65000, 0, 0, 63, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 24248, 48000, 0, 0, 63, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 26987, 48000, 0, 0, 63, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25210, 65000, 0, 0, 63, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27263, 1300, 0, 0, 63, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 32645, 59000, 0, 0, 62, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 26889, 59000, 0, 0, 62, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25448, 38000, 0, 0, 62, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 48792, 62000, 0, 0, 62, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 26861, 50000, 0, 0, 62, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 26978, 43000, 0, 0, 62, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 26998, 43000, 0, 0, 62, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 25306, 42000, 0, 0, 62, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27219, 30000, 0, 0, 62, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 32379, 59000, 0, 0, 62, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 25202, 65000, 0, 0, 62, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200004, 27135, 55000, 0, 0, 62, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 24398, 38000, 0, 0, 62, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 22570, 43000, 0, 0, 62, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49892, 59000, 0, 0, 62, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27080, 51000, 0, 0, 62, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 30482, 51000, 0, 0, 62, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 34120, 70000, 0, 0, 62, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 25307, 26000, 0, 0, 62, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 28176, 34000, 0, 0, 62, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25422, 34000, 0, 0, 61, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 3714, 61000, 0, 0, 61, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200008, 27078, 46000, 0, 0, 61, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25233, 53000, 0, 0, 61, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200018, 25546, 34000, 0, 0, 61, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200002, 25241, 65000, 0, 0, 61, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200012, 25363, 53000, 0, 0, 61, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200016, 26839, 50000, 0, 0, 61, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49020, 61000, 0, 0, 61, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 26984, 39000, 0, 0, 61, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200006, 27001, 39000, 0, 0, 61, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200014, 27025, 68000, 0, 0, 61, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200019, 49896, 61000, 0, 0, 61, 0);
-INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES (200010, 27224, 30000, 0, 0, 61, 0);
+INSERT INTO `npc_trainer` (`ID`, `SpellID`, `MoneyCost`, `ReqSkillLine`, `ReqSkillRank`, `ReqLevel`, `ReqSpell`) VALUES 
+(200004, 48782, 200000, 0, 0, 80, 0),
+(200019, 49930, 360000, 0, 0, 80, 0),
+(200006, 48467, 200000, 0, 0, 80, 0),
+(90000, 61316, 0, 0, 0, 80, 0),
+(200018, 51514, 180000, 0, 0, 80, 0),
+(200012, 53023, 100000, 0, 0, 80, 0),
+(200006, 48468, 200000, 0, 0, 80, 0),
+(200019, 49938, 360000, 0, 0, 80, 0),
+(200004, 48952, 10000, 0, 0, 80, 0),
+(200010, 47867, 160000, 0, 0, 80, 0),
+(200006, 48469, 200000, 0, 0, 80, 0),
+(200016, 48660, 15000, 0, 0, 80, 0),
+(200018, 49271, 180000, 0, 0, 80, 0),
+(90000, 53428, 0, 0, 0, 80, 0),
+(200002, 57755, 100000, 0, 0, 80, 0),
+(200012, 48073, 9000, 0, 0, 80, 0),
+(200012, 48078, 180000, 0, 0, 80, 0),
+(200006, 48470, 200000, 0, 0, 80, 0),
+(200010, 57946, 160000, 0, 0, 80, 0),
+(200012, 48125, 180000, 0, 0, 80, 0),
+(200016, 48676, 300000, 0, 0, 80, 0),
+(200016, 48691, 300000, 0, 0, 80, 0),
+(200014, 48990, 300000, 0, 0, 80, 0),
+(200002, 47486, 13000, 0, 0, 80, 0),
+(200002, 57823, 260000, 0, 0, 80, 0),
+(200012, 48173, 9000, 0, 0, 80, 0),
+(200012, 48162, 180000, 0, 0, 80, 0),
+(200010, 59172, 8000, 0, 0, 80, 0),
+(200018, 61301, 9000, 0, 0, 80, 0),
+(200004, 48819, 200000, 0, 0, 80, 0),
+(200014, 49050, 10000, 0, 0, 80, 0),
+(200018, 61657, 180000, 0, 0, 80, 0),
+(200006, 48447, 200000, 0, 0, 80, 0),
+(200010, 60220, 160000, 0, 0, 80, 0),
+(200008, 42873, 150000, 0, 0, 80, 0),
+(200008, 55360, 7500, 0, 0, 80, 0),
+(200010, 47843, 8000, 0, 0, 80, 0),
+(200018, 51994, 180000, 0, 0, 80, 0),
+(200014, 62757, 300000, 0, 0, 80, 0),
+(90000, 50977, 0, 0, 0, 80, 0),
+(200002, 47498, 5000, 0, 0, 80, 0),
+(200018, 59159, 180000, 0, 0, 80, 0),
+(200018, 58796, 180000, 0, 0, 80, 0),
+(200018, 58804, 180000, 0, 0, 80, 0),
+(200004, 48827, 10000, 0, 0, 80, 0),
+(200018, 60043, 180000, 0, 0, 80, 0),
+(200004, 61411, 200000, 0, 0, 80, 0),
+(200014, 49012, 100000, 0, 0, 80, 0),
+(200014, 49048, 300000, 0, 0, 80, 0),
+(200018, 58656, 180000, 0, 0, 80, 0),
+(200006, 48564, 10000, 0, 0, 80, 0),
+(200006, 48572, 200000, 0, 0, 80, 0),
+(200006, 50763, 200000, 0, 0, 80, 0),
+(200006, 53251, 10000, 0, 0, 80, 0),
+(200010, 61290, 10000, 0, 0, 80, 0),
+(200019, 51411, 10000, 0, 0, 80, 0),
+(200018, 58704, 180000, 0, 0, 80, 0),
+(200019, 49895, 360000, 0, 0, 80, 0),
+(200016, 48666, 15000, 0, 0, 80, 0),
+(200018, 49233, 180000, 0, 0, 80, 0),
+(200008, 42921, 150000, 0, 0, 80, 0),
+(200008, 42945, 7500, 0, 0, 80, 0),
+(200008, 42956, 150000, 0, 0, 80, 0),
+(200008, 43002, 150000, 0, 0, 80, 0),
+(200008, 58659, 150000, 0, 0, 80, 0),
+(200014, 60053, 100000, 0, 0, 80, 0),
+(200012, 48066, 180000, 0, 0, 80, 0),
+(200014, 58434, 300000, 0, 0, 80, 0),
+(200018, 58757, 180000, 0, 0, 80, 0),
+(200010, 47811, 160000, 0, 0, 80, 0),
+(200010, 47889, 160000, 0, 0, 80, 0),
+(200019, 55262, 18000, 0, 0, 80, 0),
+(200012, 48161, 180000, 0, 0, 80, 0),
+(200012, 48158, 180000, 0, 0, 80, 0),
+(200012, 48160, 9000, 0, 0, 80, 0),
+(200012, 48068, 180000, 0, 0, 80, 0),
+(200014, 61847, 300000, 0, 0, 80, 0),
+(200016, 57993, 300000, 0, 0, 80, 0),
+(200019, 49924, 360000, 0, 0, 80, 0),
+(200018, 49281, 180000, 0, 0, 80, 0),
+(200018, 49284, 9000, 0, 0, 80, 0),
+(90000, 48778, 0, 0, 0, 80, 0),
+(200018, 58774, 180000, 0, 0, 80, 0),
+(200002, 47440, 260000, 0, 0, 80, 0),
+(200002, 47471, 260000, 0, 0, 80, 0),
+(200002, 47488, 260000, 0, 0, 80, 0),
+(200010, 47825, 160000, 0, 0, 80, 0),
+(200018, 58790, 180000, 0, 0, 80, 0),
+(200018, 55459, 180000, 0, 0, 80, 0),
+(200018, 57722, 10000, 0, 0, 80, 0),
+(200004, 48806, 200000, 0, 0, 80, 0),
+(200004, 48825, 10000, 0, 0, 80, 0),
+(200010, 47847, 8000, 0, 0, 80, 0),
+(200012, 48074, 9000, 0, 0, 80, 0),
+(200010, 48018, 160000, 0, 0, 80, 0),
+(200014, 63672, 10000, 0, 0, 80, 0),
+(200010, 48020, 160000, 0, 0, 80, 0),
+(200014, 61006, 300000, 0, 0, 80, 0),
+(200012, 48087, 9000, 0, 0, 80, 0),
+(200018, 58643, 180000, 0, 0, 80, 0),
+(200019, 42650, 360000, 0, 0, 80, 0),
+(200012, 48089, 9000, 0, 0, 80, 0),
+(200012, 53007, 9000, 0, 0, 80, 0),
+(200006, 48441, 200000, 0, 0, 80, 0),
+(200006, 48451, 200000, 0, 0, 80, 0),
+(200006, 48463, 200000, 0, 0, 80, 0),
+(200006, 48566, 10000, 0, 0, 80, 0),
+(200006, 48568, 200000, 0, 0, 80, 0),
+(200016, 48638, 300000, 0, 0, 80, 0),
+(200006, 49800, 200000, 0, 0, 80, 0),
+(200006, 53201, 10000, 0, 0, 80, 0),
+(200006, 61384, 10000, 0, 0, 80, 0),
+(200010, 47827, 8000, 0, 0, 80, 0),
+(200010, 58887, 160000, 0, 0, 80, 0),
+(200010, 59092, 160000, 0, 0, 80, 0),
+(200010, 47838, 100000, 0, 0, 80, 0),
+(200016, 48657, 300000, 0, 0, 80, 0),
+(200018, 58739, 180000, 0, 0, 80, 0),
+(200014, 53339, 300000, 0, 0, 80, 0),
+(200008, 42897, 150000, 0, 0, 80, 0),
+(200008, 42940, 150000, 0, 0, 80, 0),
+(200008, 42950, 7500, 0, 0, 80, 0),
+(200008, 42995, 150000, 0, 0, 80, 0),
+(200008, 43039, 7500, 0, 0, 80, 0),
+(200008, 44781, 15000, 0, 0, 80, 0),
+(200008, 47610, 150000, 0, 0, 80, 0),
+(200010, 47836, 160000, 0, 0, 80, 0),
+(200018, 58745, 180000, 0, 0, 80, 0),
+(200010, 59164, 8000, 0, 0, 80, 0),
+(200018, 49277, 180000, 0, 0, 80, 0),
+(200019, 55268, 18000, 0, 0, 80, 0),
+(200018, 58749, 180000, 0, 0, 80, 0),
+(200012, 48156, 9000, 0, 0, 80, 0),
+(200019, 51328, 18000, 0, 0, 80, 0),
+(200018, 49273, 180000, 0, 0, 80, 0),
+(90000, 61024, 0, 0, 0, 80, 0),
+(200019, 49921, 360000, 0, 0, 80, 0),
+(200008, 42846, 150000, 0, 0, 79, 0),
+(200004, 48785, 200000, 0, 0, 79, 0),
+(200019, 55271, 18000, 0, 0, 79, 0),
+(200019, 51425, 360000, 0, 0, 79, 0),
+(200008, 43012, 150000, 0, 0, 79, 0),
+(200012, 48071, 180000, 0, 0, 79, 0),
+(200006, 48570, 200000, 0, 0, 79, 0),
+(200004, 48801, 200000, 0, 0, 79, 0),
+(200004, 48934, 200000, 0, 0, 79, 0),
+(200010, 47893, 160000, 0, 0, 79, 0),
+(200006, 48477, 200000, 0, 0, 79, 0),
+(200006, 50213, 200000, 0, 0, 79, 0),
+(200008, 42931, 150000, 0, 0, 79, 0),
+(200010, 47809, 160000, 0, 0, 79, 0),
+(200002, 47437, 260000, 0, 0, 79, 0),
+(200014, 49045, 300000, 0, 0, 79, 0),
+(200006, 48378, 200000, 0, 0, 79, 0),
+(200006, 48461, 200000, 0, 0, 79, 0),
+(200010, 47878, 160000, 0, 0, 79, 0),
+(200008, 43024, 150000, 0, 0, 79, 0),
+(200008, 43046, 150000, 0, 0, 79, 0),
+(200018, 49238, 180000, 0, 0, 79, 0),
+(200002, 47475, 260000, 0, 0, 79, 0),
+(200010, 47815, 160000, 0, 0, 79, 0),
+(200010, 47864, 160000, 0, 0, 79, 0),
+(200014, 49001, 300000, 0, 0, 79, 0),
+(200004, 48932, 200000, 0, 0, 79, 0),
+(200004, 48942, 200000, 0, 0, 79, 0),
+(200004, 48950, 200000, 0, 0, 79, 0),
+(200012, 48300, 180000, 0, 0, 79, 0),
+(200006, 48480, 200000, 0, 0, 79, 0),
+(200006, 48579, 200000, 0, 0, 79, 0),
+(200012, 48127, 180000, 0, 0, 79, 0),
+(200012, 48113, 180000, 0, 0, 79, 0),
+(200012, 48123, 180000, 0, 0, 79, 0),
+(200018, 49231, 180000, 0, 0, 79, 0),
+(200016, 48668, 300000, 0, 0, 79, 0),
+(200008, 42842, 150000, 0, 0, 79, 0),
+(200008, 42926, 150000, 0, 0, 79, 0),
+(200008, 43008, 150000, 0, 0, 79, 0),
+(200008, 43020, 150000, 0, 0, 79, 0),
+(200010, 47820, 160000, 0, 0, 79, 0),
+(200016, 48672, 300000, 0, 0, 79, 0),
+(200006, 48465, 200000, 0, 0, 78, 0),
+(200014, 48999, 15000, 0, 0, 78, 0),
+(200004, 48788, 200000, 0, 0, 78, 0),
+(200008, 42859, 150000, 0, 0, 78, 0),
+(200010, 47823, 160000, 0, 0, 78, 0),
+(200014, 49056, 300000, 0, 0, 78, 0),
+(200019, 49909, 360000, 0, 0, 78, 0),
+(200010, 47891, 160000, 0, 0, 78, 0),
+(200006, 48577, 200000, 0, 0, 78, 0),
+(200006, 53312, 200000, 0, 0, 78, 0),
+(200010, 47857, 160000, 0, 0, 78, 0),
+(200012, 48063, 180000, 0, 0, 78, 0),
+(200016, 48659, 300000, 0, 0, 78, 0),
+(200008, 42833, 150000, 0, 0, 78, 0),
+(200008, 42914, 150000, 0, 0, 78, 0),
+(200010, 47860, 160000, 0, 0, 78, 0),
+(200018, 49236, 180000, 0, 0, 78, 0),
+(200018, 58753, 180000, 0, 0, 78, 0),
+(200002, 47436, 260000, 0, 0, 78, 0),
+(200002, 47502, 26000, 0, 0, 78, 0),
+(200010, 47865, 160000, 0, 0, 78, 0),
+(200012, 48171, 180000, 0, 0, 78, 0),
+(200004, 48817, 200000, 0, 0, 78, 0),
+(200004, 48947, 200000, 0, 0, 78, 0),
+(200019, 49941, 360000, 0, 0, 78, 0),
+(200018, 58582, 180000, 0, 0, 78, 0),
+(200006, 48574, 200000, 0, 0, 78, 0),
+(200006, 53308, 200000, 0, 0, 78, 0),
+(200012, 48120, 180000, 0, 0, 78, 0),
+(200018, 58734, 180000, 0, 0, 78, 0),
+(200008, 43010, 150000, 0, 0, 78, 0),
+(200012, 48135, 180000, 0, 0, 78, 0),
+(200010, 47888, 160000, 0, 0, 78, 0),
+(200002, 47520, 260000, 0, 0, 77, 0),
+(200006, 49803, 200000, 0, 0, 77, 0),
+(200012, 48168, 180000, 0, 0, 77, 0),
+(200008, 43017, 150000, 0, 0, 77, 0),
+(200004, 48938, 200000, 0, 0, 77, 0),
+(200004, 48945, 200000, 0, 0, 77, 0),
+(200006, 48560, 200000, 0, 0, 77, 0),
+(200010, 47855, 160000, 0, 0, 77, 0),
+(202012, 54197, 10000000, 762, 225, 77, 0),
+(200010, 47813, 160000, 0, 0, 77, 0),
+(200012, 48170, 180000, 0, 0, 77, 0),
+(200004, 48936, 200000, 0, 0, 77, 0),
+(200014, 48996, 300000, 0, 0, 77, 0),
+(200006, 48443, 200000, 0, 0, 77, 0),
+(200006, 48562, 200000, 0, 0, 77, 0),
+(200014, 49052, 300000, 0, 0, 77, 0),
+(200014, 49067, 300000, 0, 0, 77, 0),
+(200008, 42891, 7500, 0, 0, 77, 0),
+(200008, 42985, 150000, 0, 0, 77, 0),
+(90000, 54197, 10000000, 34090, 0, 77, 0),
+(200018, 49276, 180000, 0, 0, 77, 0),
+(200019, 49894, 360000, 0, 0, 76, 0),
+(200008, 43015, 150000, 0, 0, 76, 0),
+(200016, 48674, 300000, 0, 0, 76, 0),
+(200012, 48169, 180000, 0, 0, 76, 0),
+(200002, 47450, 260000, 0, 0, 76, 0),
+(200004, 48943, 200000, 0, 0, 76, 0),
+(200018, 57960, 180000, 0, 0, 76, 0),
+(200010, 47856, 160000, 0, 0, 76, 0),
+(200010, 47884, 160000, 0, 0, 76, 0),
+(200018, 58756, 180000, 0, 0, 76, 0),
+(200002, 47465, 260000, 0, 0, 76, 0),
+(200018, 58789, 180000, 0, 0, 76, 0),
+(200014, 53338, 10000, 0, 0, 76, 0),
+(200008, 42896, 150000, 0, 0, 76, 0),
+(200010, 47793, 160000, 0, 0, 76, 0),
+(200018, 58773, 180000, 0, 0, 76, 0),
+(200018, 58803, 180000, 0, 0, 76, 0),
+(200018, 58795, 180000, 0, 0, 76, 0),
+(200004, 54043, 200000, 0, 0, 76, 0),
+(200012, 48072, 180000, 0, 0, 76, 0),
+(200006, 48575, 200000, 0, 0, 76, 0),
+(200016, 48637, 300000, 0, 0, 76, 0),
+(200014, 49071, 300000, 0, 0, 76, 0),
+(200008, 42920, 150000, 0, 0, 76, 0),
+(200008, 42843, 150000, 0, 0, 75, 0),
+(200010, 59163, 8000, 0, 0, 75, 0),
+(200002, 55694, 100000, 0, 0, 75, 0),
+(200016, 57934, 300000, 0, 0, 75, 0),
+(200012, 48086, 9000, 0, 0, 75, 0),
+(200018, 51505, 180000, 0, 0, 75, 0),
+(200019, 57623, 360000, 0, 0, 75, 0),
+(200018, 58581, 180000, 0, 0, 75, 0),
+(200006, 48563, 10000, 0, 0, 75, 0),
+(200006, 48571, 200000, 0, 0, 75, 0),
+(200006, 52610, 200000, 0, 0, 75, 0),
+(200006, 53249, 10000, 0, 0, 75, 0),
+(200018, 49232, 180000, 0, 0, 75, 0),
+(200008, 42955, 150000, 0, 0, 75, 0),
+(200012, 48157, 180000, 0, 0, 75, 0),
+(200010, 47824, 160000, 0, 0, 75, 0),
+(200012, 48159, 9000, 0, 0, 75, 0),
+(200010, 59171, 8000, 0, 0, 75, 0),
+(200002, 47487, 260000, 0, 0, 75, 0),
+(200010, 47826, 8000, 0, 0, 75, 0),
+(200014, 49011, 100000, 0, 0, 75, 0),
+(200018, 59158, 180000, 0, 0, 75, 0),
+(200004, 48824, 10000, 0, 0, 75, 0),
+(200014, 63671, 10000, 0, 0, 75, 0),
+(200012, 53006, 9000, 0, 0, 75, 0),
+(200012, 48045, 10000, 0, 0, 75, 0),
+(200019, 47568, 360000, 0, 0, 75, 0),
+(200019, 51419, 18000, 0, 0, 75, 0),
+(200018, 58741, 180000, 0, 0, 75, 0),
+(200018, 49272, 180000, 0, 0, 75, 0),
+(200016, 48675, 300000, 0, 0, 75, 0),
+(200019, 49920, 360000, 0, 0, 75, 0),
+(200014, 61005, 300000, 0, 0, 75, 0),
+(200010, 47810, 160000, 0, 0, 75, 0),
+(200010, 47841, 8000, 0, 0, 75, 0),
+(200018, 49283, 9000, 0, 0, 75, 0),
+(200002, 47485, 13000, 0, 0, 75, 0),
+(200002, 47497, 5000, 0, 0, 75, 0),
+(200010, 47846, 8000, 0, 0, 75, 0),
+(200018, 61300, 9000, 0, 0, 75, 0),
+(200018, 61649, 180000, 0, 0, 75, 0),
+(200004, 48781, 200000, 0, 0, 75, 0),
+(200004, 48818, 200000, 0, 0, 75, 0),
+(200004, 48826, 10000, 0, 0, 75, 0),
+(200004, 48951, 10000, 0, 0, 75, 0),
+(200004, 53600, 200000, 0, 0, 75, 0),
+(200010, 47897, 10000, 0, 0, 75, 0),
+(200012, 48077, 180000, 0, 0, 75, 0),
+(200014, 49049, 10000, 0, 0, 75, 0),
+(200012, 48088, 9000, 0, 0, 75, 0),
+(200018, 57622, 180000, 0, 0, 75, 0),
+(200019, 51327, 18000, 0, 0, 75, 0),
+(200018, 58652, 180000, 0, 0, 75, 0),
+(200006, 48440, 200000, 0, 0, 75, 0),
+(200006, 48446, 200000, 0, 0, 75, 0),
+(200006, 48462, 200000, 0, 0, 75, 0),
+(200006, 48565, 10000, 0, 0, 75, 0),
+(200006, 53200, 10000, 0, 0, 75, 0),
+(200006, 53226, 10000, 0, 0, 75, 0),
+(200010, 47835, 160000, 0, 0, 75, 0),
+(200018, 58703, 180000, 0, 0, 75, 0),
+(200018, 58746, 180000, 0, 0, 75, 0),
+(200016, 48663, 15000, 0, 0, 75, 0),
+(200019, 51410, 10000, 0, 0, 75, 0),
+(200018, 58737, 180000, 0, 0, 75, 0),
+(200008, 42841, 150000, 0, 0, 75, 0),
+(200008, 42917, 150000, 0, 0, 75, 0),
+(200008, 42944, 7500, 0, 0, 75, 0),
+(200008, 42949, 7500, 0, 0, 75, 0),
+(200008, 43038, 7500, 0, 0, 75, 0),
+(200008, 44614, 150000, 0, 0, 75, 0),
+(200012, 48124, 180000, 0, 0, 75, 0),
+(200012, 48065, 180000, 0, 0, 75, 0),
+(200014, 60052, 400, 0, 0, 75, 0),
+(200012, 48067, 180000, 0, 0, 75, 0),
+(200018, 49280, 180000, 0, 0, 75, 0),
+(200016, 48690, 300000, 0, 0, 75, 0),
+(200019, 49923, 360000, 0, 0, 75, 0),
+(200004, 48784, 200000, 0, 0, 74, 0),
+(200014, 48989, 300000, 0, 0, 74, 0),
+(200016, 48671, 300000, 0, 0, 74, 0),
+(200014, 61846, 300000, 0, 0, 74, 0),
+(200010, 47814, 160000, 0, 0, 74, 0),
+(200018, 55458, 180000, 0, 0, 74, 0),
+(200016, 48656, 300000, 0, 0, 74, 0),
+(200008, 42872, 150000, 0, 0, 74, 0),
+(200019, 55261, 18000, 0, 0, 74, 0),
+(200010, 60219, 160000, 0, 0, 74, 0),
+(200006, 48377, 200000, 0, 0, 74, 0),
+(200012, 48122, 180000, 0, 0, 74, 0),
+(200012, 48155, 9000, 0, 0, 74, 0),
+(200012, 48126, 180000, 0, 0, 74, 0),
+(200014, 58431, 300000, 0, 0, 74, 0),
+(200014, 49047, 300000, 0, 0, 74, 0),
+(200002, 47474, 260000, 0, 0, 74, 0),
+(200019, 49929, 360000, 0, 0, 74, 0),
+(200010, 47892, 160000, 0, 0, 74, 0),
+(200004, 48805, 200000, 0, 0, 74, 0),
+(200008, 42939, 150000, 0, 0, 74, 0),
+(200010, 47808, 160000, 0, 0, 74, 0),
+(29156, 53142, 100000, 0, 0, 74, 0),
+(200016, 57992, 300000, 0, 0, 74, 0),
+(200002, 47439, 100000, 0, 0, 74, 0),
+(200004, 48941, 200000, 0, 0, 74, 0),
+(200006, 48459, 200000, 0, 0, 74, 0),
+(200006, 49802, 200000, 0, 0, 74, 0),
+(200006, 53307, 200000, 0, 0, 74, 0),
+(200012, 48112, 100000, 0, 0, 74, 0),
+(200018, 49230, 180000, 0, 0, 74, 0),
+(200008, 42832, 150000, 0, 0, 74, 0),
+(200010, 47837, 100000, 0, 0, 74, 0),
+(200018, 49270, 180000, 0, 0, 74, 0),
+(200012, 48172, 3250, 0, 0, 73, 0),
+(200010, 47871, 160000, 0, 0, 73, 0),
+(200008, 42858, 150000, 0, 0, 73, 0),
+(200004, 48800, 200000, 0, 0, 73, 0),
+(200004, 48933, 200000, 0, 0, 73, 0),
+(200012, 48062, 180000, 0, 0, 73, 0),
+(200010, 47863, 160000, 0, 0, 73, 0),
+(200014, 49000, 300000, 0, 0, 73, 0),
+(200018, 58731, 180000, 0, 0, 73, 0),
+(200014, 49044, 300000, 0, 0, 73, 0),
+(200006, 48479, 200000, 0, 0, 73, 0),
+(200006, 48567, 200000, 0, 0, 73, 0),
+(200019, 51424, 360000, 0, 0, 73, 0),
+(200008, 42890, 7500, 0, 0, 73, 0),
+(200008, 43019, 150000, 0, 0, 73, 0),
+(200019, 49937, 360000, 0, 0, 73, 0),
+(200019, 55270, 18000, 0, 0, 73, 0),
+(200002, 47470, 260000, 0, 0, 73, 0),
+(200002, 47501, 260000, 0, 0, 73, 0),
+(200012, 48070, 180000, 0, 0, 73, 0),
+(200004, 48931, 200000, 0, 0, 73, 0),
+(200012, 48299, 180000, 0, 0, 73, 0),
+(200006, 48569, 200000, 0, 0, 73, 0),
+(200006, 48578, 200000, 0, 0, 73, 0),
+(200018, 58751, 180000, 0, 0, 73, 0),
+(200018, 49235, 180000, 0, 0, 73, 0),
+(200010, 47859, 160000, 0, 0, 73, 0),
+(200016, 48667, 300000, 0, 0, 73, 0),
+(200019, 49904, 360000, 0, 0, 73, 0),
+(200018, 49237, 180000, 0, 0, 73, 0),
+(200006, 48464, 200000, 0, 0, 72, 0),
+(200002, 47519, 260000, 0, 0, 72, 0),
+(200019, 70164, 360000, 0, 0, 72, 0),
+(200002, 47449, 260000, 0, 0, 72, 0),
+(200008, 42930, 150000, 0, 0, 72, 0),
+(200010, 47890, 160000, 0, 0, 72, 0),
+(200006, 48576, 200000, 0, 0, 72, 0),
+(200019, 62158, 360000, 0, 0, 72, 0),
+(200004, 48816, 200000, 0, 0, 72, 0),
+(200006, 48450, 200000, 0, 0, 72, 0),
+(200006, 48573, 200000, 0, 0, 72, 0),
+(200016, 48658, 300000, 0, 0, 72, 0),
+(200010, 47886, 160000, 0, 0, 72, 0),
+(200014, 48998, 15000, 0, 0, 72, 0),
+(200019, 61999, 360000, 0, 0, 72, 0),
+(200019, 49940, 360000, 0, 0, 72, 0),
+(200004, 48949, 200000, 0, 0, 72, 0),
+(200006, 48561, 200000, 0, 0, 72, 0),
+(200010, 47819, 160000, 0, 0, 72, 0),
+(200010, 61191, 70000, 0, 0, 72, 0),
+(200012, 48119, 180000, 0, 0, 72, 0),
+(200014, 49055, 300000, 0, 0, 72, 0),
+(200008, 42913, 150000, 0, 0, 72, 0),
+(200008, 42925, 150000, 0, 0, 72, 0),
+(200012, 48134, 180000, 0, 0, 72, 0),
+(200018, 49275, 180000, 0, 0, 72, 0),
+(200012, 48040, 180000, 0, 0, 71, 0),
+(200006, 40120, 200000, 762, 300, 71, 0),
+(200006, 50212, 200000, 0, 0, 71, 0),
+(200018, 58580, 180000, 0, 0, 71, 0),
+(200008, 43045, 150000, 0, 0, 71, 0),
+(29156, 53140, 100000, 0, 0, 71, 0),
+(200010, 47812, 160000, 0, 0, 71, 0),
+(200018, 58785, 180000, 0, 0, 71, 0),
+(200002, 64382, 260000, 0, 0, 71, 0),
+(200004, 48935, 200000, 0, 0, 71, 0),
+(200018, 58649, 180000, 0, 0, 71, 0),
+(200010, 50511, 160000, 0, 0, 71, 0),
+(200006, 48442, 200000, 0, 0, 71, 0),
+(200006, 49799, 200000, 0, 0, 71, 0),
+(200018, 58699, 180000, 0, 0, 71, 0),
+(200016, 51724, 300000, 0, 0, 71, 0),
+(200018, 58771, 180000, 0, 0, 71, 0),
+(200002, 46845, 260000, 0, 0, 71, 0),
+(200018, 58794, 180000, 0, 0, 71, 0),
+(200018, 58801, 180000, 0, 0, 71, 0),
+(200004, 48937, 200000, 0, 0, 71, 0),
+(200014, 49051, 300000, 0, 0, 71, 0),
+(200006, 48559, 200000, 0, 0, 71, 0),
+(200014, 49066, 300000, 0, 0, 71, 0),
+(200014, 53351, 300000, 0, 0, 71, 0),
+(200008, 42894, 150000, 0, 0, 71, 0),
+(200008, 43023, 150000, 0, 0, 71, 0),
+(200018, 58755, 180000, 0, 0, 71, 0),
+(200014, 48995, 300000, 0, 0, 71, 0),
+(200019, 51326, 18000, 0, 0, 70, 0),
+(200019, 51418, 18000, 0, 0, 70, 0),
+(200008, 27127, 100000, 0, 0, 70, 0),
+(200018, 25509, 88000, 0, 0, 70, 0),
+(200018, 32594, 5000, 0, 0, 70, 0),
+(200006, 26988, 100000, 0, 0, 70, 0),
+(200006, 53248, 1700, 0, 0, 70, 0),
+(200008, 27074, 120000, 0, 0, 70, 0),
+(200008, 33405, 6000, 0, 0, 70, 0),
+(200008, 55359, 5000, 0, 0, 70, 0),
+(200010, 30405, 2500, 0, 0, 70, 0),
+(200010, 30910, 78000, 0, 0, 70, 0),
+(200018, 51993, 71000, 0, 0, 70, 0),
+(200002, 30356, 71000, 0, 0, 70, 0),
+(200004, 27136, 130000, 0, 0, 70, 0),
+(200004, 27149, 130000, 0, 0, 70, 0),
+(200018, 61299, 9000, 0, 0, 70, 0),
+(200008, 33717, 150000, 0, 0, 70, 0),
+(200008, 38697, 150000, 0, 0, 70, 0),
+(200019, 53344, 360000, 0, 0, 70, 0),
+(200010, 27265, 1300, 0, 0, 70, 0),
+(200010, 30545, 78000, 0, 0, 70, 0),
+(200010, 32231, 78000, 0, 0, 70, 0),
+(200002, 25236, 71000, 0, 0, 70, 0),
+(200002, 30022, 3250, 0, 0, 70, 0),
+(200002, 30357, 260000, 0, 0, 70, 0),
+(200018, 25547, 88000, 0, 0, 70, 0),
+(200004, 27140, 200000, 0, 0, 70, 0),
+(200004, 27153, 130000, 0, 0, 70, 0),
+(200004, 27179, 6500, 0, 0, 70, 0),
+(200004, 32700, 5000, 0, 0, 70, 0),
+(200018, 32182, 88000, 0, 0, 70, 0),
+(200019, 45463, 63000, 0, 0, 70, 0),
+(200006, 26990, 100000, 0, 0, 70, 0),
+(200006, 27002, 100000, 0, 0, 70, 0),
+(200006, 53199, 10000, 0, 0, 70, 0),
+(200012, 25392, 100000, 0, 0, 70, 0),
+(200012, 25218, 140000, 0, 0, 70, 0),
+(200018, 25442, 88000, 0, 0, 70, 0),
+(200008, 27082, 120000, 0, 0, 70, 0),
+(200008, 33933, 6000, 0, 0, 70, 0),
+(200008, 44780, 10000, 0, 0, 70, 0),
+(200010, 59170, 2500, 0, 0, 70, 0),
+(200014, 27068, 5000, 0, 0, 70, 0),
+(200014, 60051, 400, 0, 0, 70, 0),
+(200014, 36916, 300000, 0, 0, 70, 0),
+(200012, 28275, 1500, 0, 0, 70, 0),
+(200010, 27238, 78000, 0, 0, 70, 0),
+(200010, 30414, 2500, 0, 0, 70, 0),
+(200010, 30459, 78000, 0, 0, 70, 0),
+(200010, 30546, 3900, 0, 0, 70, 0),
+(200012, 25312, 2300, 0, 0, 70, 0),
+(200012, 32996, 110000, 0, 0, 70, 0),
+(200002, 25203, 71000, 0, 0, 70, 0),
+(200002, 30324, 100000, 0, 0, 70, 0),
+(200002, 30330, 3500, 0, 0, 70, 0),
+(200012, 32999, 3400, 0, 0, 70, 0),
+(200018, 59156, 88000, 0, 0, 70, 0),
+(200004, 27141, 100000, 0, 0, 70, 0),
+(200004, 27173, 130000, 0, 0, 70, 0),
+(200004, 33072, 6500, 0, 0, 70, 0),
+(200012, 25368, 140000, 0, 0, 70, 0),
+(200012, 34917, 2300, 0, 0, 70, 0),
+(200012, 53005, 5000, 0, 0, 70, 0),
+(200012, 34866, 7000, 0, 0, 70, 0),
+(200016, 26864, 2700, 0, 0, 70, 0),
+(200019, 48265, 360000, 0, 0, 70, 0),
+(200016, 26862, 100000, 0, 0, 70, 0),
+(200016, 26884, 100000, 0, 0, 70, 0),
+(200018, 57721, 5200, 0, 0, 70, 0),
+(201017, 44157, 180000, 202, 375, 70, 0),
+(200006, 26983, 100000, 0, 0, 70, 0),
+(200006, 26991, 100000, 0, 0, 70, 0),
+(200006, 26995, 100000, 0, 0, 70, 0),
+(200006, 27012, 100000, 0, 0, 70, 0),
+(200006, 27013, 200000, 0, 0, 70, 0),
+(200012, 25389, 65000, 0, 0, 70, 0),
+(200006, 53225, 1700, 0, 0, 70, 0),
+(200012, 25222, 140000, 0, 0, 70, 0),
+(200014, 27065, 10000, 0, 0, 70, 0),
+(200019, 51409, 6500, 0, 0, 70, 0),
+(200016, 34413, 7500, 0, 0, 70, 0),
+(200018, 25396, 88000, 0, 0, 70, 0),
+(202011, 34091, 50000000, 762, 225, 70, 0),
+(200008, 27079, 120000, 0, 0, 70, 0),
+(200008, 27090, 150000, 0, 0, 70, 0),
+(200008, 27126, 120000, 0, 0, 70, 0),
+(200008, 32796, 120000, 0, 0, 70, 0),
+(200008, 33043, 2500, 0, 0, 70, 0),
+(200008, 33938, 7500, 0, 0, 70, 0),
+(200008, 38692, 150000, 0, 0, 70, 0),
+(200008, 38704, 100000, 0, 0, 70, 0),
+(200008, 43987, 120000, 0, 0, 70, 0),
+(200010, 59161, 2500, 0, 0, 70, 0),
+(200012, 39374, 100000, 0, 0, 70, 0),
+(200018, 25472, 88000, 0, 0, 70, 0),
+(200016, 48673, 100000, 0, 0, 70, 0),
+(200018, 25457, 88000, 0, 0, 70, 0),
+(200019, 49919, 360000, 0, 0, 70, 0),
+(90000, 34091, 50000000, 34090, 0, 70, 0),
+(200016, 48689, 140000, 0, 0, 70, 0),
+(200010, 27243, 78000, 0, 0, 70, 0),
+(200010, 27260, 78000, 0, 0, 70, 0),
+(200018, 25590, 79000, 0, 0, 69, 0),
+(200018, 25574, 79000, 0, 0, 69, 0),
+(200008, 27128, 110000, 0, 0, 69, 0),
+(200018, 25454, 79000, 0, 0, 69, 0),
+(200018, 25567, 79000, 0, 0, 69, 0),
+(200014, 27019, 170000, 0, 0, 69, 0),
+(200018, 33736, 79000, 0, 0, 69, 0),
+(200012, 25364, 65000, 0, 0, 69, 0),
+(200019, 49928, 69000, 0, 0, 69, 0),
+(200012, 25375, 65000, 0, 0, 69, 0),
+(200006, 26982, 90000, 0, 0, 69, 0),
+(200006, 26985, 90000, 0, 0, 69, 0),
+(200006, 26994, 90000, 0, 0, 69, 0),
+(200008, 27124, 110000, 0, 0, 69, 0),
+(200008, 33946, 110000, 0, 0, 69, 0),
+(200008, 38699, 87000, 0, 0, 69, 0),
+(200010, 27209, 70000, 0, 0, 69, 0),
+(200010, 27212, 70000, 0, 0, 69, 0),
+(200010, 28189, 70000, 0, 0, 69, 0),
+(200010, 30909, 70000, 0, 0, 69, 0),
+(200002, 2048, 71000, 0, 0, 69, 0),
+(200002, 25242, 71000, 0, 0, 69, 0),
+(200004, 27139, 110000, 0, 0, 69, 0),
+(200004, 27154, 110000, 0, 0, 69, 0),
+(200014, 63670, 10000, 0, 0, 69, 0),
+(200018, 25533, 79000, 0, 0, 69, 0),
+(200006, 26979, 90000, 0, 0, 69, 0),
+(200006, 27004, 90000, 0, 0, 69, 0),
+(200016, 32684, 100000, 0, 0, 69, 0),
+(200006, 50764, 90000, 0, 0, 69, 0),
+(200008, 27072, 110000, 0, 0, 69, 0),
+(200008, 27125, 110000, 0, 0, 69, 0),
+(200019, 55260, 3450, 0, 0, 69, 0),
+(200010, 27215, 70000, 0, 0, 69, 0),
+(200010, 27220, 70000, 0, 0, 69, 0),
+(200010, 27228, 70000, 0, 0, 69, 0),
+(200018, 25423, 71000, 0, 0, 68, 0),
+(200018, 25464, 71000, 0, 0, 68, 0),
+(200014, 27045, 150000, 0, 0, 68, 0),
+(200012, 25331, 110000, 0, 0, 68, 0),
+(200006, 26989, 81000, 0, 0, 68, 0),
+(200019, 48707, 68000, 0, 0, 68, 0),
+(200010, 27230, 63000, 0, 0, 68, 0),
+(200002, 25208, 65000, 0, 0, 68, 0),
+(200012, 33076, 110000, 0, 0, 68, 0),
+(200016, 26863, 110000, 0, 0, 68, 0),
+(200016, 26867, 120000, 0, 0, 68, 0),
+(200018, 25505, 71000, 0, 0, 68, 0),
+(200006, 27009, 81000, 0, 0, 68, 0),
+(200006, 33983, 1700, 0, 0, 68, 0),
+(200012, 25467, 110000, 0, 0, 68, 0),
+(200014, 27044, 150000, 0, 0, 68, 0),
+(200019, 49893, 68000, 0, 0, 68, 0),
+(200008, 27131, 96000, 0, 0, 68, 0),
+(200018, 25563, 71000, 0, 0, 68, 0),
+(200014, 27046, 150000, 0, 0, 68, 0),
+(200010, 27223, 63000, 0, 0, 68, 0),
+(200010, 29893, 63000, 0, 0, 68, 0),
+(200002, 469, 65000, 0, 0, 68, 0),
+(200002, 25231, 65000, 0, 0, 68, 0),
+(200004, 27138, 100000, 0, 0, 68, 0),
+(200004, 27152, 100000, 0, 0, 68, 0),
+(200004, 27180, 100000, 0, 0, 68, 0),
+(200012, 25387, 6500, 0, 0, 68, 0),
+(200006, 33987, 1900, 0, 0, 68, 0),
+(200012, 25213, 110000, 0, 0, 68, 0),
+(200008, 27085, 96000, 0, 0, 68, 0),
+(200008, 27101, 96000, 0, 0, 68, 0),
+(200012, 25308, 110000, 0, 0, 68, 0),
+(200010, 27213, 63000, 0, 0, 68, 0),
+(200010, 27222, 56700, 0, 0, 68, 0),
+(200010, 27217, 57000, 0, 0, 67, 0),
+(200014, 27016, 140000, 0, 0, 67, 0),
+(200006, 27008, 73000, 0, 0, 67, 0),
+(200010, 27218, 57000, 0, 0, 67, 0),
+(200018, 25560, 64000, 0, 0, 67, 0),
+(200008, 27088, 87000, 0, 0, 67, 0),
+(200010, 27259, 57000, 0, 0, 67, 0),
+(200018, 25525, 64000, 0, 0, 67, 0),
+(200019, 56815, 67000, 0, 0, 67, 0),
+(200002, 25264, 65000, 0, 0, 67, 0),
+(200018, 25557, 64000, 0, 0, 67, 0),
+(200019, 55265, 18000, 0, 0, 67, 0),
+(200019, 49936, 68000, 0, 0, 67, 0),
+(200014, 27022, 140000, 0, 0, 67, 0),
+(200014, 27021, 140000, 0, 0, 67, 0),
+(200006, 26986, 73000, 0, 0, 67, 0),
+(200006, 26996, 73000, 0, 0, 67, 0),
+(200006, 27000, 73000, 0, 0, 67, 0),
+(200018, 25449, 64000, 0, 0, 67, 0),
+(200019, 51423, 67000, 0, 0, 67, 0),
+(200008, 33944, 100000, 0, 0, 67, 0),
+(200019, 49903, 67000, 0, 0, 67, 0),
+(200012, 25235, 99000, 0, 0, 67, 0),
+(200014, 27067, 2500, 0, 0, 66, 0),
+(200006, 27005, 66000, 0, 0, 66, 0),
+(200006, 27006, 66000, 0, 0, 66, 0),
+(200006, 33745, 66000, 0, 0, 66, 0),
+(200019, 48743, 66000, 0, 0, 66, 0),
+(200002, 25248, 3250, 0, 0, 66, 0),
+(200004, 27137, 83000, 0, 0, 66, 0),
+(200004, 27150, 83000, 0, 0, 66, 0),
+(200008, 30455, 78000, 0, 0, 66, 0),
+(200010, 28172, 51000, 0, 0, 66, 0),
+(200018, 25500, 58000, 0, 0, 66, 0),
+(200021, 53736, 100000, 0, 0, 66, 0),
+(200002, 25258, 65000, 0, 0, 66, 0),
+(200002, 29707, 65000, 0, 0, 66, 0),
+(200019, 49939, 66000, 0, 0, 66, 0),
+(200012, 25384, 65000, 0, 0, 66, 0),
+(200016, 27441, 80000, 0, 0, 66, 0),
+(200012, 25437, 2200, 0, 0, 66, 0),
+(200018, 25420, 58000, 0, 0, 66, 0),
+(200008, 27070, 78000, 0, 0, 66, 0),
+(200008, 27132, 3900, 0, 0, 66, 0),
+(200010, 27250, 51000, 0, 0, 66, 0),
+(20791, 33691, 150000, 0, 0, 65, 0),
+(20791, 35717, 150000, 0, 0, 65, 0),
+(201011, 51312, 350000, 333, 350, 65, 0),
+(200010, 27216, 46000, 0, 0, 65, 0),
+(200019, 57330, 65000, 0, 0, 65, 0),
+(201003, 51303, 350000, 171, 350, 65, 0),
+(200004, 27143, 75000, 0, 0, 65, 0),
+(200019, 56222, 65000, 0, 0, 65, 0),
+(201029, 51301, 350000, 165, 350, 65, 0),
+(200008, 27087, 70000, 0, 0, 65, 0),
+(200018, 25528, 52000, 0, 0, 65, 0),
+(200012, 34865, 4000, 0, 0, 65, 0),
+(200018, 25570, 52000, 0, 0, 65, 0),
+(200012, 25217, 80000, 0, 0, 65, 0),
+(201041, 51308, 350000, 197, 350, 65, 0),
+(202009, 50299, 350000, 129, 350, 65, 0),
+(201026, 51310, 350000, 755, 350, 65, 0),
+(200002, 25234, 65000, 0, 0, 65, 0),
+(200018, 25552, 52000, 0, 0, 65, 0),
+(201006, 51298, 350000, 164, 350, 65, 0),
+(200012, 25367, 80000, 0, 0, 65, 0),
+(200004, 27142, 75000, 0, 0, 65, 0),
+(201014, 61464, 350000, 202, 350, 65, 0),
+(200006, 26980, 59000, 0, 0, 65, 0),
+(200006, 33357, 59000, 0, 0, 65, 0),
+(200012, 25221, 80000, 0, 0, 65, 0),
+(200014, 27023, 110000, 0, 0, 65, 0),
+(200019, 51417, 3250, 0, 0, 65, 0),
+(202006, 51295, 350000, 185, 350, 65, 0),
+(200008, 27073, 70000, 0, 0, 65, 0),
+(200008, 27133, 3500, 0, 0, 65, 0),
+(200008, 37420, 70000, 0, 0, 65, 0),
+(201023, 45380, 350000, 773, 350, 65, 0),
+(200019, 49918, 65000, 0, 0, 65, 0),
+(19340, 35717, 150000, 0, 0, 65, 0),
+(200010, 27210, 46000, 0, 0, 65, 0),
+(200019, 45529, 64000, 0, 0, 64, 0),
+(200012, 32546, 72000, 0, 0, 64, 0),
+(200004, 27174, 3348, 0, 0, 64, 0),
+(200006, 26997, 53000, 0, 0, 64, 0),
+(200008, 30451, 63000, 0, 0, 64, 0),
+(200019, 55259, 3200, 0, 0, 64, 0),
+(200016, 26865, 140000, 0, 0, 64, 0),
+(200018, 25489, 47000, 0, 0, 64, 0),
+(200016, 27448, 72000, 0, 0, 64, 0),
+(200006, 33763, 53000, 0, 0, 64, 0),
+(200008, 27134, 2500, 0, 0, 64, 0),
+(200010, 29722, 42000, 0, 0, 64, 0),
+(200016, 26679, 72000, 0, 0, 64, 0),
+(200019, 49927, 64000, 0, 0, 64, 0),
+(200006, 26992, 53000, 0, 0, 64, 0),
+(200006, 27003, 53000, 0, 0, 64, 0),
+(200008, 27086, 63000, 0, 0, 64, 0),
+(200008, 33042, 2200, 0, 0, 64, 0),
+(200010, 27211, 42000, 0, 0, 64, 0),
+(200002, 25269, 65000, 0, 0, 63, 0),
+(200012, 25372, 65000, 0, 0, 63, 0),
+(200014, 63669, 7000, 0, 0, 63, 0),
+(200006, 26981, 48000, 0, 0, 63, 0),
+(200008, 27075, 57000, 0, 0, 63, 0),
+(200008, 27130, 57000, 0, 0, 63, 0),
+(200019, 54446, 68000, 0, 0, 63, 0),
+(200018, 25508, 42000, 0, 0, 63, 0),
+(200018, 25391, 42000, 0, 0, 63, 0),
+(200019, 53323, 63000, 0, 0, 63, 0),
+(200008, 27071, 57000, 0, 0, 63, 0),
+(200018, 25439, 42000, 0, 0, 63, 0),
+(200018, 25469, 42000, 0, 0, 63, 0),
+(200004, 27151, 61000, 0, 0, 63, 0),
+(200014, 27014, 87000, 0, 0, 63, 0),
+(200019, 49999, 65000, 0, 0, 63, 0),
+(200006, 24248, 48000, 0, 0, 63, 0),
+(200006, 26987, 48000, 0, 0, 63, 0),
+(200012, 25210, 65000, 0, 0, 63, 0),
+(200010, 27263, 1300, 0, 0, 63, 0),
+(200016, 32645, 59000, 0, 0, 62, 0),
+(200016, 26889, 59000, 0, 0, 62, 0),
+(200018, 25448, 38000, 0, 0, 62, 0),
+(200019, 48792, 62000, 0, 0, 62, 0),
+(200016, 26861, 50000, 0, 0, 62, 0),
+(200006, 26978, 43000, 0, 0, 62, 0),
+(200006, 26998, 43000, 0, 0, 62, 0),
+(200008, 25306, 42000, 0, 0, 62, 0),
+(200010, 27219, 30000, 0, 0, 62, 0),
+(200012, 32379, 59000, 0, 0, 62, 0),
+(200002, 25202, 65000, 0, 0, 62, 0),
+(200004, 27135, 55000, 0, 0, 62, 0),
+(200018, 24398, 38000, 0, 0, 62, 0),
+(200006, 22570, 43000, 0, 0, 62, 0),
+(200019, 49892, 59000, 0, 0, 62, 0),
+(200008, 27080, 51000, 0, 0, 62, 0),
+(200008, 30482, 51000, 0, 0, 62, 0),
+(200014, 34120, 70000, 0, 0, 62, 0),
+(200010, 25307, 26000, 0, 0, 62, 0),
+(200010, 28176, 34000, 0, 0, 62, 0),
+(200018, 25422, 34000, 0, 0, 61, 0),
+(200019, 3714, 61000, 0, 0, 61, 0),
+(200008, 27078, 46000, 0, 0, 61, 0),
+(200012, 25233, 53000, 0, 0, 61, 0),
+(200018, 25546, 34000, 0, 0, 61, 0),
+(200002, 25241, 65000, 0, 0, 61, 0),
+(200012, 25363, 53000, 0, 0, 61, 0),
+(200016, 26839, 50000, 0, 0, 61, 0),
+(200019, 49020, 61000, 0, 0, 61, 0),
+(200006, 26984, 39000, 0, 0, 61, 0),
+(200006, 27001, 39000, 0, 0, 61, 0),
+(200014, 27025, 68000, 0, 0, 61, 0),
+(200019, 49896, 61000, 0, 0, 61, 0),
+(200010, 27224, 30000, 0, 0, 61, 0);
